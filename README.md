@@ -150,15 +150,7 @@ Enterprise-grade event management platform with role-based access.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourajsingh12&theme=tokyonight"/>
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourajsingh12&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
