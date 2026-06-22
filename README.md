@@ -1,11 +1,16 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Spring+Boot+Developer;Flutter+Developer;AI+Enthusiast;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Spring+Boot+Developer;Flutter+Developer;AI+%26+RAG+Enthusiast;Building+Scalable+Applications" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Youraj Singh</h1>
 
 <h3 align="center">
 Software Engineer | Java Backend Developer | Flutter Developer | AI Enthusiast
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourajsingh12&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
@@ -16,64 +21,94 @@ Software Engineer | Java Backend Developer | Flutter Developer | AI Enthusiast
 - 📱 Flutter Mobile App Developer
 - 🤖 Learning AI, RAG & Small Language Models
 - 🗄️ MySQL, PostgreSQL & Redis
-- 🐳 Docker & DevOps Enthusiast
+- 🐳 Docker, CI/CD & DevOps Enthusiast
 - 📍 Delhi, India
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+### Backend & Languages
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+### Mobile Development
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Riverpod-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### Database & Cache
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+</p>
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+### Tools & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yourajsingh12&show_icons=true&theme=tokyonight)
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourajsingh12&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourajsingh12&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourajsingh12&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourajsingh12&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourajsingh12&theme=tokyonight"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourajsingh12&layout=compact&theme=tokyonight" />
-</p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourajsingh12&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourajsingh12&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 Contributions
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=yourajsingh12&theme=tokyonight)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourajsingh12&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 📚 Simpoint LMS
+- 💳 QuickBill
+- 🛰️ TrackOrbitX
+- 🎯 Event Management System
+- 🔐 Spring Security JWT Authentication
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
