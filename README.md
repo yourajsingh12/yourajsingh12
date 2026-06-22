@@ -111,22 +111,7 @@ Software Engineer | Java Spring Boot Developer | Flutter Developer | AI Enthusia
 - Integrated Redis caching and Kafka event-driven architecture.
 - Collaborated closely with Flutter teams for seamless mobile-backend integration.
 
-### 🚀 Software Engineer
-**Hexile Services Pvt. Ltd.** | Mar 2025 – Jan 2026
 
-- Developed and maintained production-grade Flutter applications.
-- Built scalable Java Spring Boot backend systems.
-- Designed REST APIs and business workflows for QuickBill.
-- Improved application performance and code maintainability.
-
-### 🚀 Software Engineer
-**Softication Technology Pvt. Ltd.** | Sep 2024 – Feb 2025
-
-- Developed TrackOrbitX using Flutter and Spring Boot.
-- Implemented billing, attendance, payroll, and employee management modules.
-- Built authentication and reporting systems.
-
----
 
 # 🚀 Featured Projects
 
