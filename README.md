@@ -26,7 +26,7 @@ public class YourajSingh extends SoftwareEngineer {
 
     String role      = "Software Engineer @ Vidyanta Skills Institute";
     String location  = "Gurugram, India 📍";
-    int    experience = 2; // years+
+    int    experience = 2.6; // years+
 
     String[] backend = { "Java", "Spring Boot", "Spring Security", "Kafka", "Redis" };
     String[] mobile  = { "Flutter", "Dart", "GetX", "Riverpod", "Firebase" };
