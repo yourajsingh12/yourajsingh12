@@ -33,7 +33,7 @@ Software Engineer | Java Spring Boot Developer | Flutter Developer | AI Enthusia
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/youraj-singh-77955b25b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -78,6 +78,7 @@ Software Engineer | Java Spring Boot Developer | Flutter Developer | AI Enthusia
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 </p>
 
 ### ⚙️ DevOps & Tools
