@@ -50,6 +50,21 @@ Software Engineer | Java Backend Developer | Flutter Developer | AI Enthusiast
 
 ![](https://github-readme-stats.vercel.app/api?username=yourajsingh12&show_icons=true&theme=tokyonight)
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourajsingh12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourajsingh12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourajsingh12&layout=compact&theme=tokyonight" />
+</p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yourajsingh12&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourajsingh12&layout=compact&theme=tokyonight)
