@@ -28,7 +28,6 @@ public class YourajSingh {
         "Healthcare",
         "Education",
         "Finance",
-        "Logistics",
         "Workforce Management"
     };
 }
