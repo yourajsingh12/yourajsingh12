@@ -17,32 +17,25 @@
 
 ## ⚡ About Me
 
-public class YourajSingh extends SoftwareEngineer {
+public class YourajSingh {
 
-    String role      = "Software Engineer @ Vidyanta Skills Institute";
-    String location  = "Gurugram, India 📍";
-    double    experience = 2.6; // years+
+    String role = "Software Engineer @ Vidyanta Skills Institute";
+    String location = "Gurugram, India 📍";
 
-    String[] backend = { "Java", "Spring Boot", "Spring Security", "Kafka", "Redis" };
-    String[] mobile  = { "Flutter", "Dart", "GetX", "Riverpod", "Firebase" };
-    String[] domains = { "Healthcare", "Education", "Finance", "Logistics", "Workforce Mgmt" };
-    String[] learning = { "System Design", "Microservices", "RAG", "SLMs", "Generative AI" };
+    double experience = 2.6; // Years+
 
-    String currentProject = "Simpoint LMS — scaling to 1,000+ daily active users";
-
-    @Override
-    public String passion() {
-        return "Building scalable systems that make a real difference.";
-    }
+    String[] domains = {
+        "Healthcare",
+        "Education",
+        "Finance",
+        "Logistics",
+        "Workforce Management"
+    };
 }
-```
-
----
 
 ## 🛠️ Tech Stack
 
 ### ☕ Backend
-
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -52,7 +45,6 @@ public class YourajSingh extends SoftwareEngineer {
 </p>
 
 ### 📱 Mobile
-
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -62,7 +54,6 @@ public class YourajSingh extends SoftwareEngineer {
 </p>
 
 ### 🗄️ Databases & Cache
-
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -73,7 +64,6 @@ public class YourajSingh extends SoftwareEngineer {
 </p>
 
 ### ⚙️ DevOps & Tools
-
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
@@ -83,7 +73,6 @@ public class YourajSingh extends SoftwareEngineer {
 </p>
 
 ### 🤖 AI & Emerging Tech
-
 <p>
 <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-0052CC?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Small_Language_Models-34A853?style=for-the-badge&logoColor=white"/>
@@ -91,10 +80,7 @@ public class YourajSingh extends SoftwareEngineer {
 <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logoColor=white"/>
 </p>
 
----
-
 ## 💼 Experience
-
 <table width="100%">
 <tr>
 <td width="6px" style="background:#6e40c9;"></td>
@@ -102,7 +88,6 @@ public class YourajSingh extends SoftwareEngineer {
 
 ### 🚀 Software Engineer — Vidyanta Skills Institute Pvt. Ltd.
 **Jan 2026 – Present · Gurugram, India**
-
 - 🔹 Architected and maintained Spring Boot microservices for **Simpoint LMS**, serving healthcare & nursing professionals
 - 🔹 Built production-grade REST APIs scaling to **1,000+ daily active users**
 - 🔹 Implemented **Redis caching** strategies reducing API response times significantly
@@ -113,10 +98,7 @@ public class YourajSingh extends SoftwareEngineer {
 </tr>
 </table>
 
----
-
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -163,10 +145,7 @@ public class YourajSingh extends SoftwareEngineer {
 </tr>
 </table>
 
----
-
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=yourajsingh12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&border_radius=12" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourajsingh12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff&border_radius=12" />
@@ -176,10 +155,7 @@ public class YourajSingh extends SoftwareEngineer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourajsingh12&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&border_radius=12" />
 </p>
 
----
-
 ## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourajsingh12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9" width="100%"/>
 </p>
