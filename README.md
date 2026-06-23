@@ -15,13 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=yourajsingh12&label=Profile+Views&color=6e40c9&style=for-the-badge"/>
 </p>
 
-<br/>
-
----
-
 ## ⚡ About Me
 
-```java
 public class YourajSingh extends SoftwareEngineer {
 
     String role      = "Software Engineer @ Vidyanta Skills Institute";
